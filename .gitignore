@@ -1,0 +1,25 @@
+# Environment variables (contains API keys and tokens)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Results (generated at runtime)
+results/*.json
+results/*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
